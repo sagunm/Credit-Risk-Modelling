@@ -1,4 +1,4 @@
-# Credit-Risk-Modelling
+# Credit Risk Modelling
 
 
 * **Data** - Raw data is taken from https://www.kaggle.com/pragyanbo/a-hitchhiker-s-guide-to-lending-club-loan-data#Understanding-the-data <br/>
